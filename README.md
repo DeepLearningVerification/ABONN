@@ -10,7 +10,7 @@
 We propose **ABONN**, a framework that adapts Monte Carlo Tree Search (MCTS) techniques for neural network verification. 
 
 The design of **ABONN** is based on two key ideas:
-1. The branch-and-bound tree provides a natural, deterministic tree structure for sequentially searching for counterexamples, similar to exploring paths in a tree to find violations.
+1. The branch-and-bound tree provides a natural, ___deterministic___ tree structure for sequentially searching for counterexamples, similar to exploring paths in a tree to find violations.
 2. ABONN leverages recursive rollout and backtracking strategies, enabling effective balancing exploration and exploitation of the search space.
 
 <details><summary> Installation </summary>
