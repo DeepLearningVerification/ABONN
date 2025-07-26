@@ -7,7 +7,7 @@
 
 <img src="https://i.postimg.cc/qRFzWcTt/mcts.png" alt="propose" width="450"/>
 
-We propose **ABONN**, a framework that adapts Monte Carlo Tree Search (MCTS) techniques for neural network verification. 
+We propose **ABONN**, a technique that adapts Monte Carlo Tree Search (MCTS) techniques for neural network verification. 
 
 The design of **ABONN** is based on two key ideas:
 1. The branch-and-bound tree provides a natural, ___deterministic___ tree structure for sequentially searching for counterexamples, similar to exploring paths in a tree to find violations.
